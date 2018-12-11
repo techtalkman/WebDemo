@@ -29,3 +29,4 @@ C:\CodeBootcamp\DotNet\ASP.NET\WebDemoBackEndMVC\WebDemo\WebDemo\obj\Debug\netco
 C:\CodeBootcamp\DotNet\ASP.NET\WebDemoBackEndMVC\WebDemo\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.dll
 C:\CodeBootcamp\DotNet\ASP.NET\WebDemoBackEndMVC\WebDemo\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.pdb
 C:\CodeBootcamp\DotNet\ASP.NET\WebDemoBackEndMVC\WebDemo\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.csproj.CopyComplete
+C:\CodeBootcamp\DotNet\ASP.NET\WebDemoBackEndMVC\WebDemo\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.csprojAssemblyReference.cache
