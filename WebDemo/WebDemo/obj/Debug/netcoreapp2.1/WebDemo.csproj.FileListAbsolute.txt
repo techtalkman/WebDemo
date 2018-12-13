@@ -30,3 +30,5 @@ C:\CodeBootcamp\DotNet\ASP.NET\WebDemoBackEndMVC\WebDemo\WebDemo\obj\Debug\netco
 C:\CodeBootcamp\DotNet\ASP.NET\WebDemoBackEndMVC\WebDemo\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.pdb
 C:\CodeBootcamp\DotNet\ASP.NET\WebDemoBackEndMVC\WebDemo\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.csproj.CopyComplete
 C:\CodeBootcamp\DotNet\ASP.NET\WebDemoBackEndMVC\WebDemo\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.csprojAssemblyReference.cache
+C:\CodeBootcamp\DotNet\ASP.NET\WebDemoBackEndMVC\WebDemo\WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Asiakkaat\index.g.cshtml.cs
+C:\CodeBootcamp\DotNet\ASP.NET\WebDemoBackEndMVC\WebDemo\WebDemo\obj\Debug\netcoreapp2.1\Razor\Views\Asiakkaat\LuoUusi.g.cshtml.cs

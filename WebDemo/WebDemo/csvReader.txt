@@ -1,0 +1,47 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.IO;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace WebDemo
+{
+    public class CsvReader
+    {
+        
+        //Hey its working 100% 
+          public static DataTable ConvertCSVtoDataTable(string strFilePath)
+                {
+            string strFilePath = @"https://www.avoindata.fi/data/dataset/99e0d417-bf81-464f-a2d6-701cba682b15/resource/99074f7a-2843-4ff7-9e0e-0e92340887db/download/cmarekavoindataavoindata1.csv";
+            DataTable dt = new DataTable();
+                    using (StreamReader sr = new StreamReader(strFilePath))
+                    {
+                        string[] headers = sr.ReadLine().Split(',');
+                        foreach (string header in headers)
+                        {
+                            dt.Columns.Add(header);
+                        }
+                        while (!sr.EndOfStream)
+                        {
+                            string[] rows = sr.ReadLine().Split(',');
+                            DataRow dr = dt.NewRow();
+                            for (int i = 0; i < headers.Length; i++)
+                            {
+                                dr[i] = rows[i];
+                                
+                            }
+                            dt.Rows.Add(dr);
+                        }
+
+                    }
+
+                    return View(dt);
+                }
+
+        private static DataTable DataView(DataTable dt)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
