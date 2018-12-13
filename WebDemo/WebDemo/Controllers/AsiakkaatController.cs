@@ -32,5 +32,15 @@ namespace AspNetCoreBackend.Controllers
         {
             return View();
         }
+        
+        [HttpPost]
+        public IActionResult LuoUusi(Customers uusi)
+        {
+            NorthwindContext context = new NorthwindContext();
+            context.Customers.Add(uusi);
+            context.SaveChanges();
+
+            return View();
+        }
     }
 }
