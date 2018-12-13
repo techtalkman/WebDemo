@@ -4,3 +4,5 @@
 
 /.vs
 /WebDemo/.vs
+/bin
+/obj
