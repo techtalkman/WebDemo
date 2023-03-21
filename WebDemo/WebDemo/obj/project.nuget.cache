@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YuKShT+saGrLC6Sr9gOzYIU3I8RiXAJpqrsJJkDiidHPZN5krx2Uwlk6PgsHmliyL2Fra8tXOwObTSaMuyjlQ==",
+  "success": false,
+  "projectFilePath": "D:\\Webdemo_Git\\WebDemo\\WebDemo\\WebDemo\\WebDemo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Razor.Design (>= 2.1.2)' for '.NETCoreApp,Version=v2.1'.",
+      "libraryId": "Microsoft.AspNetCore.Razor.Design",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.VisualStudio.Web.CodeGeneration.Design (>= 2.1.1)' for '.NETCoreApp,Version=v2.1'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App (>= 2.1.0)' for '.NETCoreApp,Version=v2.1'.",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App (>= 2.1.1)' for '.NETCoreApp,Version=v2.1'.",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
+}
