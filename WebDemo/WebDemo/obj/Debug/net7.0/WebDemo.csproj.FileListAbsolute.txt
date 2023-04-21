@@ -1,0 +1,6 @@
+D:\Webdemo_Git\WebDemo\WebDemo\WebDemo\obj\Debug\net7.0\WebDemo.csproj.AssemblyReference.cache
+D:\Webdemo_Git\WebDemo\WebDemo\WebDemo\obj\Debug\net7.0\WebDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webdemo_Git\WebDemo\WebDemo\WebDemo\obj\Debug\net7.0\WebDemo.AssemblyInfoInputs.cache
+D:\Webdemo_Git\WebDemo\WebDemo\WebDemo\obj\Debug\net7.0\WebDemo.AssemblyInfo.cs
+D:\Webdemo_Git\WebDemo\WebDemo\WebDemo\obj\Debug\net7.0\WebDemo.csproj.CoreCompileInputs.cache
+D:\Webdemo_Git\WebDemo\WebDemo\WebDemo\obj\Debug\net7.0\WebDemo.MvcApplicationPartsAssemblyInfo.cache
